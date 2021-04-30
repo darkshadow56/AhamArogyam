@@ -13,15 +13,11 @@
 .home {
   min-height: 50vh;
   width: 100;
-  background-image: url(./assets/tulsi-4850177_1920.jpg);
 }
 
 .services {
   min-height: 50vh;
   width: 100;
-  background-position: center;
-  background-repeat: none;
-  background-size: cover;
 }
 
 .contacts {
