@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+$height: 50vh;
+$width: 100;
+
+.home{
+min-height: $height;
+width: $width;
+
+}
+.services{
+    min-height: $height;
+    width: $width;
+}
+.contacts{
+    min-height: $height;
+    width: $width;
+}
+.testimonial{
+    min-height: $height;
+    width: $width;
+}
+.about{
+    min-height: $height;
+    width: $width;
+}
+.nav-logo{
+    width: 3rem;
+    padding-right: 2px;
+}
+.footer-logo{
+    width: 3rem;
+    padding-right: 2px;
+}

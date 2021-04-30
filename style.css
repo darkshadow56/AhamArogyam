@@ -1,0 +1,42 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.home {
+  min-height: 50vh;
+  width: 100;
+}
+
+.services {
+  min-height: 50vh;
+  width: 100;
+}
+
+.contacts {
+  min-height: 50vh;
+  width: 100;
+}
+
+.testimonial {
+  min-height: 50vh;
+  width: 100;
+}
+
+.about {
+  min-height: 50vh;
+  width: 100;
+}
+
+.nav-logo {
+  width: 3rem;
+  padding-right: 2px;
+}
+
+.footer-logo {
+  width: 3rem;
+  padding-right: 2px;
+}
+/*# sourceMappingURL=style.css.map */
