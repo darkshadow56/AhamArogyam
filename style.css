@@ -3,17 +3,31 @@
   padding: 0%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.main-body {
+  background-image: url(./assets/tulsi-4850177_1920.jpg);
+  background-repeat: none;
+  background-position: center;
+  background-size: cover;
+}
+
+.nav-links {
+  margin-right: -25px;
 }
 
 .home {
   min-height: 50vh;
   width: 100;
-  background-image: url(./assets/tulsi-4850177_1920.jpg);
 }
 
 .services {
   min-height: 50vh;
   width: 100;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
 }
 
 .contacts {

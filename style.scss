@@ -2,20 +2,35 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+.main-body{
+    background-image: url(./assets/tulsi-4850177_1920.jpg);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
 }
 
 $height: 50vh;
 $width: 100;
 
+.nav-links{
+    margin-right: -25px;
+}
+
 .home{
 min-height: $height;
 width: $width;
-background-image: url(./assets/tulsi-4850177_1920.jpg);
+
 
 }
 .services{
     min-height: $height;
     width: $width;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
 }
 .contacts{
     min-height: $height;
@@ -24,6 +39,7 @@ background-image: url(./assets/tulsi-4850177_1920.jpg);
 .testimonial{
     min-height: $height;
     width: $width;
+
 }
 .about{
     min-height: $height;
