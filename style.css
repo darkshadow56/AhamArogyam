@@ -8,6 +8,7 @@
 .home {
   min-height: 50vh;
   width: 100;
+  background-image: url(./assets/tulsi-4850177_1920.jpg);
 }
 
 .services {
