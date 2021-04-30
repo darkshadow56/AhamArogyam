@@ -6,24 +6,14 @@
   scroll-behavior: smooth;
 }
 
-.main-body {
-  background-color: #6c9748;
-  background-repeat: none;
-  background-position: center;
-  background-size: cover;
-}
-
 .nav-links {
   margin-right: -25px;
-}
-
-.form-body {
-  background-color: #6c9748;
 }
 
 .home {
   min-height: 50vh;
   width: 100;
+  background-image: url(./assets/tulsi-4850177_1920.jpg);
 }
 
 .services {
